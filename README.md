@@ -53,4 +53,7 @@ After running `meridien_clarity.ipynb`, check the `exports/` folder for ready-to
 - Intent: Penalty mean is ~0.05 (almost nobody refuses the brand) but preference mean is ~4/7, indicating indifference rather than rejection.
 - Segments: Leisure-leaning travelers report the highest Meridien SCR (~0.056) despite low stay counts; leisure-forward offers are the fastest lever.
 
-Need to tweak visuals or tables? Open `meridien_clarity.ipynb`, edit text cells, and rerun—no coding required.***
+### About sample sizes
+- Each section in `meridien_clarity.ipynb` states the exact base it uses. Some views use everyone (travel mix), some use Meridien stayers (overlap), and the attitude/SCR correlations use only the small set of people who answered every Meridien question. SCR comparisons use whoever answered each brand’s SCR, so counts differ by brand.
+
+Need to tweak visuals or tables? Open `meridien_clarity.ipynb`, edit text cells, and rerun—no coding required.
