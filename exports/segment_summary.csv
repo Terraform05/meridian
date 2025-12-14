@@ -1,0 +1,6 @@
+,Meridiennights,Meridiennights,SCRmerid,SCRmerid
+,count,mean,count,mean
+segment,,,,
+Balanced/No stays,34,1.1764705882352942,3,0.03333333333333333
+Business leaning,75,1.1333333333333333,5,0.034
+Leisure leaning,252,1.1031746031746033,11,0.056363636363636366
